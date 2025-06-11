@@ -1,0 +1,5 @@
+﻿order_id,customer_name,country,amount,date
+1,John Doe,usa,250,1/1/2024
+2,Jane Smith,null,300,1/2/2024
+3,Foo Bar,india,NaN,1/3/2024
+4,John Doe,usa,250,1/1/2024

@@ -1,0 +1,4 @@
+﻿customer_id,name,country,purchase_amount,purchase_date
+101,John Doe,usa,1200.5,11/1/2024
+102,Jane Doe,canada,980.75,11/3/2024
+103,Foo Bar,india,NULL,11/4/2024
